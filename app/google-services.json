@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183597305969",
+    "firebase_url": "https://ecommerce-778fa.firebaseio.com",
+    "project_id": "ecommerce-778fa",
+    "storage_bucket": "ecommerce-778fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183597305969:android:39cd4212f25834c4484bd0",
+        "android_client_info": {
+          "package_name": "com.djlabs.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183597305969-lmmdtbmihjmku093qfc11vbp64pff5kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.djlabs.ecommerce",
+            "certificate_hash": "92cac92233292f16922f4d82a90b5af1efe70da3"
+          }
+        },
+        {
+          "client_id": "183597305969-1p5us1c5g41460k7t1q79biibjg2v7b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ9pbG9fgIj0la0OCDe5f9vKUlLCb3jqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183597305969-1p5us1c5g41460k7t1q79biibjg2v7b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
